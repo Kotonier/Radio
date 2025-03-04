@@ -5,7 +5,6 @@ lua54 'yes'
 author 'Kotonier'
 version '1.0.0'
 
-shared_script "fixDeleteVehicle.lua"
 shared_scripts {
     '@ox_lib/init.lua', 
     '@es_extended/imports.lua',
